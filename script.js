@@ -8,7 +8,7 @@ const perguntas = [
     ]
   },
   {
-    texto: "2.\nOs recursos hídricos estão diminuindo rapidamente. Como agir diante disso?",
+    texto: "2.\nA água estão diminuindo rapidamente. Como agir diante disso?",
     opcoes: [
       { texto: "Implementar campanhas para o uso consciente e proteção da água.", valor: "a" },
       { texto: "Priorizar o uso para atividades econômicas importantes.", valor: "b" },
